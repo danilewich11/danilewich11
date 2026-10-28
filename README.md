@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Daniel 👋
 
-<!--
-**danilewich11/danilewich11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+student at German International School Tbilisi, passionate about Linux, networking, and home infrastructure automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Virtualization & OS:** Proxmox VE, Linux (LXC/VM), Debian/Ubuntu
+- **Networking & Security:** Tailscale, Cloudflare Tunnels, AdGuard Home (DNS)
+- **Smart Home & Media:** Home Assistant, Scrypted (HomeKit Secure Video), Yandex Smart Home
+- **Services:** Matrix Synapse (Encrypted Chat)
+
+---
+
+### 🖥️ Featured Project: Homelab
+I run a bare-metal Proxmox VE setup on a refurbished Fujitsu Q556.  
+Check out my repository soon to see how my services, network isolation, and automation are set up.
+
+---
+
+📫 **How to reach me:** [LinkedIn](www.linkedin.com/in/daniel-shv)

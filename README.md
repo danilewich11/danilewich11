@@ -18,4 +18,4 @@ Check out my repository soon to see how my services, network isolation, and auto
 
 ---
 
-📫 **How to reach me:** [LinkedIn](www.linkedin.com/in/daniel-shv)
+📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/daniel-shv)
